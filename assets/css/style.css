@@ -1,9 +1,8 @@
-/* RESETANDO A PÁGINA*/
 *{
     margin: 0px;
     border: 0px;
     padding: 0px;
-}
+} /* Configurando o fundo do boy e as suas dimenções */
 
 /* CONFIGURANDO DIMENÇÕES DO BODY E HTML */
 html, body {
@@ -61,4 +60,15 @@ header{
 
     border: 3px solid black;
     padding: 10px;
+}
+
+.contatos{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.contatos > nav > ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
 }
