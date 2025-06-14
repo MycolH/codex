@@ -1,0 +1,64 @@
+/* RESETANDO A PÁGINA*/
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+/* CONFIGURANDO DIMENÇÕES DO BODY E HTML */
+html, body {
+    height: 100%;
+    width: 100%;
+} /* Faz com que o html ocupe toda a area da viewport e o body ocupe toda a area do html */
+
+body{
+    display: flex;
+    flex-direction: column;
+
+    color: #ffffff;
+
+    background-color: rgba(0, 0, 0, 1);
+    background-image: url("../../img/celestial.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+/* CONFIGURANDO O CABEÇARIO */
+header{
+    text-align: center; 
+    font-family: "Great Vibes", cursive; 
+    font-size: 19px;
+    
+    padding: 15px;
+
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+/* CONFIGURANDO O CORPO DA PÁGINA */
+.options{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-grow: 1;
+
+    margin: 0 auto;
+} /* Configurando o main como flex para centrar a <nav> no meio da tag */
+
+.options > nav{
+    display: flex; 
+    gap: 17px;
+}
+
+.options > nav > a{
+    text-decoration: none;
+    font-family: "Bilbo Swash Caps", cursive;
+    font-size: 30px;
+
+    color: #0000FF;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    border: 3px solid black;
+    padding: 10px;
+}
