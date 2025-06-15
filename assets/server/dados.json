@@ -1,0 +1,28 @@
+{
+    "Anime": [
+        {
+            "descricao": "Absolute Duo",
+            "imagem": "img/celestial.jpg"
+        },
+        {
+            "descricao": "Aharen-san Wa Hakarenai",
+            "imagem": "img/celestial.jpg"
+        }
+    ],
+    "Manhwa": [
+        {
+            "descricao": "Backseating Heavenly Demon",
+            "imagem": "img/celestial.jpg"
+        },
+        {
+            "descricao": "Evolution Frenzy",
+            "imagem": "img/celestial.jpg"
+        }
+    ],
+    "Novels": [
+        {
+            "descricao": "The Beginning After The End",
+            "imagem": "img/celestial.jpg"
+        }
+    ]
+}

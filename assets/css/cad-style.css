@@ -14,14 +14,10 @@ body{
 }
 
 main{
-    height: 100%;
-}
-
-section{
     display: grid;
     grid-template-columns: repeat(5,1fr);
 
-    min-height: 100%;
+    height: 100%;
 }
 
 div{
