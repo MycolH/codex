@@ -9,14 +9,23 @@
             "imagem": "img/celestial.jpg"
         }
     ],
-    "Manhwa": [
+    "Manhwas": [
         {
-            "descricao": "Backseating Heavenly Demon",
-            "imagem": "img/celestial.jpg"
+            "name": "Backseating Heavenly Demon",
+            "alternativeName": "Frenesi da Evolução",
+            "image": "img/celestial.jpg",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
         },
         {
-            "descricao": "Evolution Frenzy",
-            "imagem": "img/celestial.jpg"
+            "name": "Evolution Frenzy",
+            "alternativeName": "Frenesi da Evolução",
+            "image": "img/celestial.jpg",
+            "chapter": "pt-BR: [46] || en: [198]",
+            "status": "Finalizado",
+            "description": ""
+
         }
     ],
     "Novels": [

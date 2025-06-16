@@ -14,8 +14,8 @@ async function carregarCards() {
       const div = document.createElement('div');
       div.className = 'card';
       div.innerHTML = `
-        <img src="${card.imagem}" alt="Imagem do card">
-        <p>${card.descricao}</p>
+        <img src="${card.image}" alt="Imagem do card">
+        <p>${card.name}</p>
       `;
       container.appendChild(div);
     });
