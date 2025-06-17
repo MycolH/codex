@@ -11,7 +11,7 @@
     ],
     "Manhwas": [
         {
-            "name": "Backseating Heavenly Demon",
+            "name": "✨ Backseating Heavenly Demon",
             "alternativeName": "",
             "image": "img/celestial.jpg",
             "chapter": "",
@@ -19,13 +19,100 @@
             "description": ""
         },
         {
-            "name": "Evolution Frenzy",
+            "name": "✨ Evolution Frenzy 🏅",
             "alternativeName": "Frenesi da Evolução",
             "image": "img/Manhwa/EvolutionFrenzy.png",
             "chapter": "pt-BR: [46] | en: [198]",
             "status": "Finalizado",
             "description": "In an apocalyptic world, Duan Fei, who lost everything, dies. But he didn't expect that he would return to the beginning of everything."
-
+        },
+        {
+            "name": "✨ Father, I Don't Want This Marriage",
+            "alternativeName": "",
+            "image": "",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ I Am the Sorcerer King 🎖️🏅",
+            "alternativeName": "Eu sou o Rei Feiticeiro",
+            "image": "",
+            "chapter": "143",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ I Became The Wife of The Male Lead 🎖️🏅",
+            "alternativeName": "Me Tornei a Esposa do Protagonista",
+            "image": "",
+            "chapter": "132 (Falta Extras)",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ I Thought It’s a Common Possession 🏅",
+            "alternativeName": "Eu Achei que Fosse uma Transmigração Comum",
+            "image": "",
+            "chapter": "100 (Falta Extras)",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ I Want to Become The Emperor, So I Need a Divorce",
+            "alternativeName": "",
+            "image": "",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ Return of the 8th Class Mage",
+            "alternativeName": "Retorno do Mago de 8ª Classe",
+            "image": "",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ Solo Leveling 🏆🥉🎖️🏅",
+            "alternativeName": "",
+            "image": "",
+            "chapter": "200",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ The Crow’s Prince",
+            "alternativeName": "",
+            "image": "",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ The Heroine Had an Affair With My Fiance 🎖️🏅",
+            "alternativeName": "A Heroína Teve Um Caso Com Meu Noivo",
+            "image": "",
+            "chapter": "81",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ The Story of a Low-Rank Soldier Becoming a Monarch",
+            "alternativeName": "",
+            "image": "",
+            "chapter": "",
+            "status": "Finalizado",
+            "description": ""
+        },
+        {
+            "name": "✨ Who Made Me a Princess 🏆🥈🎖️🏅",
+            "alternativeName": "Quem Me Fez Uma Princesa",
+            "image": "",
+            "chapter": "125 (Falta Extras)",
+            "status": "Finalizado",
+            "description": ""
         }
     ],
     "Novels": [
