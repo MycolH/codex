@@ -12,7 +12,7 @@
     "Manhwas": [
         {
             "name": "Backseating Heavenly Demon",
-            "alternativeName": "Frenesi da Evolução",
+            "alternativeName": "",
             "image": "img/celestial.jpg",
             "chapter": "",
             "status": "Finalizado",
@@ -21,10 +21,10 @@
         {
             "name": "Evolution Frenzy",
             "alternativeName": "Frenesi da Evolução",
-            "image": "img/celestial.jpg",
-            "chapter": "pt-BR: [46] || en: [198]",
+            "image": "../img/Manhwa/Evolution Frenzy.png",
+            "chapter": "pt-BR: [46] | en: [198]",
             "status": "Finalizado",
-            "description": ""
+            "description": "In an apocalyptic world, Duan Fei, who lost everything, dies. But he didn't expect that he would return to the beginning of everything."
 
         }
     ],
