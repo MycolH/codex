@@ -2,7 +2,7 @@
     margin: 0px;
     border: 0px;
     padding: 0px;
-} /* Configurando o fundo do boy e as suas dimenções */
+} /* Padrão para resetar as configurações automaticas de espaçamento da página. Resetando a página */
 
 /* CONFIGURANDO DIMENÇÕES DO BODY E HTML */
 html, body {
