@@ -1,0 +1,53 @@
+Sobre o CSS
+
+    display: ; < muda o tipo do elemento: Inline, Block; Grid; ... >
+        - display: none; // Elemento não será exibido.
+		- display: inline-block; // Elemento renderizado como bloco, mas em linha. 
+
+        Grid
+            display: grid;
+            Ferramenta do CSS usada para criar layouts bidimensionais na web - permite organizar elementos em linhas e colunas, de forma fácil, responsiva e controlada.
+        Flet
+            display: flet;
+            Ferramenta do CSS usada para resolver problemas de alinhamento, distribuição e organização de elementos dentro de um contêiner de forma simples e eficiente.
+                - justify-content
+                - align-items
+                - flex-wrap
+                - flex-direction
+                    flex-direction: column; // Define a direção do layout dos itens - por padão: row, alinha os itens na horizontal. column, alinha os itens na vertical
+                - flex-grow
+                    flex-grow: 1; // Define a capacidade de um item crescer para poder ocupar o espaço disponível no contêiner. 1, significa que pode ocupar todo o espaço disponível restante
+                - order
+                - align-self
+            
+    
+    position: ; < define como um elemento é posicionado na página > 
+        - position: static; // Padrão;
+        - position: relative; //
+        - position: absolute; //
+        - position: fixed; // Fixa o elemento em um lugar específico da tela.
+            # Não segue o fluxo de renderização da página. 
+
+    cor
+        rgba(R, G, B, A)
+            - R [Red]: Intensidade de vermelho (0 – 255)
+            - G [Green]: Intensidade de verde (0 – 255)
+            - B [Blue]: Intensidade de azul (0 – 255)
+            - A [Alpha]: Opacidade (de 0 a 1)
+    
+    medidas
+        vh // faz como que independente do elemento pai a tag vai ocupar 100% da viewport;
+        px //
+        % //
+
+    codigos
+        
+        - margin: ; // Define o espaçamento externo da tag
+        - border: ; // Define a borda da tag
+            - border-width: ; // Define a largura da borda
+            - border-style: ; // Define o tipo de linha que será usado
+                - solid: Indica que da para ver a borda
+            - border-image: linear-gradient(to bottom, black 15%, #5c0101 30%, #de0303 90%, red 100%) 1; /* Permite usar uma imagem ou gradiente como borada pois usando o border isso não é possível - 1, controla o quanto o gradiente ou imagem será esticado ao longo da borda */
+        - padding: ; // Define o espaçamento entre o texto e a borda
+
+        - background: linear-gradient(to bottom, black 21%, #680101 50%, #a30202 90%, #cb0101 100%); /* Define o fundo de um elemento HTML - linear-gradient, cria uma transição de cores <no exemplo o top é preto e o bottom vermelho < % - indica até que porcentagem da altura a cor é aplicada> */
