@@ -18,8 +18,9 @@ Sobre o HTML
 	- class=""
 		Atribui uma classe a essa tag, podendo chamá-la com: .nome_da_classe
 
-	- <meta> 
-		Permite criar diversas palavras chaves que ajuadam quando alguem pesquisar algum assunto na internet. Eles ddefinem o comportamento da página.
-			- <meta charset="UTF-8"> <!-- Especifica a codificação de caracteres utilizada pelo documento HTML -->
-	- <a href="" target="_blank"></a>
-		target="_blank": Abre o link em outra página. 
+	tags
+		- <meta> 
+			Permite criar diversas palavras chaves que ajuadam quando alguem pesquisar algum assunto na internet. Eles ddefinem o comportamento da página.
+				- <meta charset="UTF-8"> <!-- Especifica a codificação de caracteres utilizada pelo documento HTML -->
+		- <a href="" target="_blank"></a>
+			target="_blank": Abre o link em outra página. 

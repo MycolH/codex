@@ -23,7 +23,6 @@ main > div {
     border-width: 3px;
     border-style: solid; 
     border-image: linear-gradient(to bottom, black 15%, #5c0101 30%, #de0303 90%, red 100%) 1;
-    border-image: linear-gradient(to bottom, black 15%, #5c0101 30%, #de0303 90%, red 100%) 1;
     
     box-sizing: border-box;
 
