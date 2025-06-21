@@ -1,2 +1,10 @@
 Sobre o JavaScript
 
+    const modal = x
+        - const: declara uma variável;
+        - modal: nome da variável;
+        - =: operador de atribuição, estando atribuindo um valor para essa variável;
+        - x: valor a ser atribuído;
+    
+    método DOM
+        - document.querySelector('.verCard')

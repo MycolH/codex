@@ -26,7 +26,7 @@ Sobre o CSS
             Ferramenta do CSS usada para resolver problemas de alinhamento, distribuição e organização de elementos dentro de um contêiner de forma simples e eficiente.
                 - justify-content: ; // Configura a centralização dos itens no eixo principal.
                 - align-items: ; // Configura a centralização dos itens no eixo cruzado.
-                - flex-wrap
+                - flex-wrap: ; //
                 - flex-direction: ; // Define a direção do layout dos itens. Por padão alinha os itens na horizontal.
                     - column: Alinha os itens na vertical.
                 - flex-grow
@@ -77,9 +77,9 @@ Sobre o CSS
     - font: ;
         - font-weight: ; // Define a espessura da fonte.
         - font-family: 'Fonte 1', 'Fonte 2', generic-family; // Define a fonte do texto.
-            - Fonte 1: Fonte escolhida.
-            - Fonte 2: Se não encontrar a primeira fonte ele vai procurar a segunda fonte que você escolheu.
-            - Generic-family: Se nenhuma fonte escolhida funcionar, ele vai usa a genérica.
+            - Fonte 1: fonte escolhida;
+            - Fonte 2: se não encontrar a primeira fonte ele vai procurar a segunda fonte que você escolheu;
+            - Generic-family: se nenhuma fonte escolhida funcionar, ele vai usa a genérica;
 
     - text-align: ; // Configura a centralização do texto de um elemento HTML.
     - text-decoration: ;  // Controla a decoração aplicada ao texto.
