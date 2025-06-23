@@ -11,12 +11,12 @@
     ],
     "Manhwas": [
         {
-            "name": "✨ Backseating Heavenly Demon",
-            "alternativeName": "",
-            "image": "img/Manhwa/BackseatingHeavenlyDemon.png",
-            "chapter": "",
+            "name": "✨ Elissa's Whirlwind Marriage 🏅",
+            "alternativeName": "O Casamento Turbulento De Elissa",
+            "image": "img/Manhwa/Elissa'sWhirlwindMarriage.png",
+            "chapter": "en: [100]",
             "status": "Finalizado",
-            "description": ""
+            "description": "After marrying the villain who will kill her in the future, Elissa decides to be kind to him in order to change her fate."
         },
         {
             "name": "✨ Evolution Frenzy 🏅",
@@ -33,6 +33,14 @@
             "chapter": "",
             "status": "Finalizado",
             "description": ""
+        },
+        {
+            "name": "✨ Heavenly Demon Instructor",
+            "alternativeName": "Instrutor Demônio Celestial",
+            "image": "img/Manhwa/BackseatingHeavenlyDemon.png",
+            "chapter": "105",
+            "status": "Finalizado",
+            "description": "In a world where humanity is fighting against monsters, Hyunsoo is a powerless young man. But that changes when he meets a master, with divine powers, who is invisible to others."
         },
         {
             "name": "✨ I Am the Sorcerer King 🎖️🏅",
