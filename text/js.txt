@@ -26,6 +26,7 @@ Sobre o JavaScript
     
     Criação de Objetos / Classes
         - new URLSearchParams(): cria um objeto que permite ler, editar, adicionar ou remover os parâmetros de uma URL;
+        - 
 
     Palavras chaves-especiais
         - new: cria uma nova instância;

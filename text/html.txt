@@ -19,8 +19,28 @@ Sobre o HTML
 		Atribui uma classe a essa tag, podendo chamá-la com: .nome_da_classe
 
 	tags
+		- <!DOCTYPE html>
+			Tag que indica qual a versão do HTML que está sendo usada no documento. Essa é a versão 5!
+		- <head> </head> 
+			Tag que indica o "Cabeçalho da página", primeira parte do documento que trás dados sobre a página.
 		- <meta> 
 			Permite criar diversas palavras chaves que ajuadam quando alguem pesquisar algum assunto na internet. Eles ddefinem o comportamento da página.
 				- <meta charset="UTF-8"> <!-- Especifica a codificação de caracteres utilizada pelo documento HTML -->
+		- <title> </title> 
+			Tag que define o título que será dado a página.
+		- <link rel="stylesheet" href="">
+			Tag que faz uma referência a outros arquivos.
+		- <body> </body> 
+			Tag que indica o "Corpo", segunda parte do documento onde vem o conteúdo que vai ser exibido para o usuário.
+		- <header> <header>
+			Tag que da aos elementos dentro dela o significado de cabeçalho.
+		- <h1> </h1>
+			Tag que indica 'Titulos' do texto, h1 é o de + importância, depois o h2, ...
+		- <nav> </nav>
+			Tag que define uma seção de navegação.
 		- <a href="" target="_blank"></a>
-			target="_blank": Abre o link em outra página. 
+			Tag usada para usar links, redireciona o usuário para alugm lugar.
+			!! target="_blank": Abre o link em outra página. 
+		-  <hr> 
+			Tag que cria uma linha horizontal na página.
+		- 
