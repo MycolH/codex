@@ -40,7 +40,24 @@ Sobre o HTML
 			Tag que define uma seção de navegação.
 		- <a href="" target="_blank"></a>
 			Tag usada para usar links, redireciona o usuário para alugm lugar.
-			!! target="_blank": Abre o link em outra página. 
+			!! target="_blank": Abre o link em outra página.
+		- <main> </main> 
+			Tag que agrupa elementos dando a eles o significado de conteúdo principal.
+		- <section> </section>
+			Tag usada para definir uma bloco de conteúdo dentro de uma página. Define uma seção temática.
+		- <img src="" alt="">
+			Elemento multimídia, inline. Usada para incluir imagens no texto.
 		-  <hr> 
 			Tag que cria uma linha horizontal na página.
-		- 
+		- <p> </p> 
+			Tag parágrafo que permite colocar um texto.
+		- <aside> </aside>
+			Tag que indica um conteúdo complementar ao conteúdo principal.
+		- <ol> </ol> 
+			Tag para criar uma lista ordenada.
+		- <ul> </ul> 
+			Tag para criar listas não ordenadas.
+		- <li> </li> 
+			Tag para criar as listas.
+		- <footer> </footer>
+			Tag que agrupa os elementos dentro dela dando a o significado de rodapé da página.
