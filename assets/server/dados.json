@@ -14,15 +14,15 @@
             "name": "✨ Elissa's Whirlwind Marriage 🏅",
             "alternativeName": "O Casamento Turbulento De Elissa",
             "image": "img/Manhwa/Elissa'sWhirlwindMarriage.png",
-            "chapter": "en: [100] - Falta Extras",
+            "chapter": "en [100] - Falta Extras",
             "status": "Finalizado",
             "description": "After marrying the villain who will kill her in the future, Elissa decides to be kind to him in order to change her fate."
         },
         {
             "name": "✨ Evolution Frenzy 🏅",
-            "alternativeName": "Frenesi da Evolução",
+            "alternativeName": "Frenesi Da Evolução",
             "image": "img/Manhwa/EvolutionFrenzy.png",
-            "chapter": "pt-BR: [46] | en: [198]",
+            "chapter": "pt-BR [46] | en [198]",
             "status": "Finalizado",
             "description": "In an apocalyptic world, Duan Fei, who lost everything, dies. But he didn't expect that he would return to the beginning of everything."
         },
@@ -38,7 +38,7 @@
             "name": "✨ Heavenly Demon Instructor",
             "alternativeName": "Instrutor Demônio Celestial",
             "image": "img/Manhwa/BackseatingHeavenlyDemon.png",
-            "chapter": "105",
+            "chapter": "pt-BR & en [105]",
             "status": "Finalizado",
             "description": "In a world where humanity is fighting against monsters, Hyunsoo is a powerless young man. But that changes when he meets a master, with divine powers, who is invisible to others."
         },
@@ -46,23 +46,23 @@
             "name": "✨ I Am the Sorcerer King 🎖️🏅",
             "alternativeName": "Eu sou o Rei Feiticeiro",
             "image": "",
-            "chapter": "143",
+            "chapter": "pt-BR & en [143]",
             "status": "Finalizado",
             "description": ""
         },
         {
-            "name": "✨ I Became The Wife of The Male Lead 🎖️🏅",
-            "alternativeName": "Me Tornei a Esposa do Protagonista",
-            "image": "",
-            "chapter": "132 - Falta Extras",
+            "name": "✨ I Became The Wife Of The Male Lead 🎖️🏅",
+            "alternativeName": "Me Tornei A Esposa Do Protagonista",
+            "image": "img/Manhwa/IBecameTheWifeOfTheMaleLead.png",
+            "chapter": "pt-BR & en [132] - Falta Extras",
             "status": "Finalizado",
-            "description": ""
+            "description": "After being reincarnated as Fiona, the main villain of a novel she wrote, and destined to die in the end, she decides to change her future."
         },
         {
             "name": "✨ I Thought It’s a Common Possession 🏅",
             "alternativeName": "Eu Achei que Fosse uma Transmigração Comum",
             "image": "",
-            "chapter": "100 - Falta Extras",
+            "chapter": "pt-BR & en [100] - Falta Extras",
             "status": "Finalizado",
             "description": ""
         },
@@ -73,6 +73,14 @@
             "chapter": "",
             "status": "Finalizado",
             "description": ""
+        },
+        {
+            "name": "✨ Marriage Of Convenience 🎖️🏅",
+            "alternativeName": "Casamento Por Conveniência",
+            "image": "img/Manhwa/MarriageOfConvenience.png",
+            "chapter": "pt-BR [124] | en [141]",
+            "status": "Finalizado",
+            "description": "Bianca is a countess who, at her death, regrets her selfish life and is given a second chance. Upon turning 19, she decides to change her future, starting with her relationship with her husband, Count Zachary de Arno."
         },
         {
             "name": "✨ Return of the 8th Class Mage",
@@ -86,7 +94,7 @@
             "name": "✨ Solo Leveling 🏆🥉🎖️🏅",
             "alternativeName": "",
             "image": "",
-            "chapter": "200",
+            "chapter": "pt-BR & en [200]",
             "status": "Finalizado",
             "description": ""
         },
@@ -99,10 +107,10 @@
             "description": ""
         },
         {
-            "name": "✨ The Heroine Had an Affair With My Fiance 🎖️🏅",
+            "name": "✨ The Heroine Had An Affair With My Fiance 🎖️🏅",
             "alternativeName": "A Heroína Teve Um Caso Com Meu Noivo",
             "image": "img/Manhwa/TheHeroineHadAnAffairWithMyFiance.png",
-            "chapter": "81",
+            "chapter": "pt-BR & en [81]",
             "status": "Finalizado",
             "description": "After being betrayed by her fiancé and the heroine, Ciella Labyrinth ends the engagement and decides to venture into a relationship with the prince."
         },
@@ -118,7 +126,7 @@
             "name": "✨ Who Made Me A Princess 🏆🥈🎖️🏅",
             "alternativeName": "Quem Me Fez Uma Princesa",
             "image": "img/Manhwa/WhoMadeMeAPrincess.png",
-            "chapter": "125 - Falta Extras",
+            "chapter": "pt-BR & en [125] - Falta Extras",
             "status": "Finalizado",
             "description": "After being reincarnated as Athanasia, princess of an empire from a book, she discovers that her destiny is to be killed by her own father, Emperor Claude, when she turns 18."
         }
