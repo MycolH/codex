@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+} 
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    overflow: hidden;
+}
+
+#caixa-de-cadastro {
+    background-color: rgba(0, 0, 0, 1);
+    color: #fff;
+
+    padding: 80px;
+    border-radius: 10px;
+
+}
